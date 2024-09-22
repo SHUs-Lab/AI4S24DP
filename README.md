@@ -46,7 +46,7 @@ To calculate the FLOPs associated with a particular model dimension run the foll
 
 ### Datasets
 
- - Shakespeare: Downloaded from
-   https://raw.githubusercontent.com/karpathy/charrnn/master/data/tinyshakespeare/input.txt
+ - Shakespeare: Downloaded from 
+   [here](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
   - Wikitext-2: Downloaded from huggingface https://huggingface.co/datasets/Salesforce/wikitext 
   - Wikitext-103: Downloaded from huggingface https://huggingface.co/datasets/Salesforce/wikitext
