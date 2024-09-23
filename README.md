@@ -21,7 +21,7 @@ toggle commenting lines 2 and 5.
     - To benchmark the Shakespear dataset, run the
 file ’WideAndDeep_Shakespear.ipynb’ in directory ’Static-
 ModelGrowth’.
- -  To benchmark the Wiki-2 and Wiki-103 datasets,
+    -  To benchmark the Wiki-2 and Wiki-103 datasets,
 run the file ’WideAndDeep_Wiki.ipynb’ in directory ’Static-
 ModelGrowth’.
     -  To choose the dataset, modify block 3 by
